@@ -1,4 +1,4 @@
-
+#First create a invertible matrix(square) and then use it as an argument of makeCacheMatrix.
 
 makeCacheMatrix <- function(x = matrix()) {     ## Create special matrix
   inv <- NULL                                   #Initialize inv as NULL since it  is a new matrix
